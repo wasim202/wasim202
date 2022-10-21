@@ -1,11 +1,15 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on ... DU
-- 🌱 I’m currently learning ... javascript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+const aboutMe = {
+   pronouns: "he" || "him",
+   code: [JavaScript, C#, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: [React, "jQuery"],
+         css: ["Bootstrap", "React-Bootstrap],
+         templates: ["Handlebars"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         misc: [GraphQL, Reastfull API]
+      },
+   databases: ["MongoDB", "mySQL", "SQL Server]
+};
