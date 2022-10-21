@@ -1,22 +1,16 @@
-Hi there 👋
-const webDeveloper = {
-   firstName: "Maria",
-   lastName: "Paterno",
-   location: "ColoradoSprings",
-   currentOccupation: "Junior Developer at Rocket Communications",
-   code: ["JavaScript", "CSS", "HTML"],
+const aboutMe = {
+   pronouns: "he" || "him",
+   code: [JavaScript, C#, HTML, CSS],
    technologies: {
-       frontEnd: {
-           javaScript: ["React", "handlebars", "jQuery"],
-          css: ["Bootstrap", "React-Bootstrap", "MaterialUI"]
-     },
-       backEnd: {
-           javaScript: ["Express", "Node", "GraphQL"]
-        },
-   dataBases: ["MySQL", "MongoDB"],
+      frontEnd: {
+         js: [React, "jQuery"],
+         css: ["Bootstrap", "React-Bootstrap],
+         templates: ["Handlebars"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         misc: [GraphQL, Reastfull API]
+      },
+   databases: ["MongoDB", "mySQL", "SQL Server]
 };
-
-📫 How to reach me: mariapaterno7@gmail.com
-⚡ Fun fact: The world's first programmer was a woman named Ada Lovelace, born in 1815.
-😄 Portfolio: https://maria-paterno.herokuapp.com/
 
