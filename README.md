@@ -1,18 +1,18 @@
 ```JavaScript
-const aboutMe = {<br>
-   pronouns: "he" || "him",<br>
-   code: [JavaScript, C#, HTML, CSS],<br>
-   technologies: {<br>
-      frontEnd: {<br>
-         js: [React, "jQuery"],<br>
-         css: ["Bootstrap", "React-Bootstrap"],<br>
-         templates: ["Handlebars"]<br>
-      },<br>
-      backEnd: {<br>
-         js: ["Node", "Express"],<br>
-         misc: ["GraphQL"]<br>
-      },<br>
+const aboutMe = {
+   pronouns: "he" || "him",
+   code: [JavaScript, C#, HTML, CSS],
+   technologies: {
+      frontEnd: {
+         js: [React, "jQuery"],
+         css: ["Bootstrap", "React-Bootstrap"],
+         templates: ["Handlebars"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+         misc: ["GraphQL"]
+      },
    
-   databases: ["MongoDB", "mySQL", "SQL Server"],<br>
+   databases: ["MongoDB", "mySQL", "SQL Server"],
 };
 ```
